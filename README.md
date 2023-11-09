@@ -1,3 +1,3 @@
-#materi untuk aplikasi git
-##di tulis oleh wahida
+# materi untuk aplikasi git
+## di tulis oleh wahida
 
